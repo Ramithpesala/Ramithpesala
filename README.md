@@ -9,7 +9,7 @@ I’m deeply interested in building intelligent systems that learn from data —
 ### 🧠 About Me
 - 🔭 Currently working on **Depth-Aware AR Navigation for Visually Impaired**  
 - 🌱 Learning **Deep Learning**, **Model Optimization**, and **MLOps**  
-- ⚙️ Skilled in **Python**, **TensorFlow**, **Scikit-learn**, **Pandas**, and **OpenCV**  
+- ⚙️ Skilled in **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **Pandas**, and **OpenCV**  
 - 📊 Interested in **AI-driven analytics**, **data visualization**, and **edge intelligence**  
 - 💬 Ask me about **ML model development**, **data preprocessing**, or **feature engineering**  
 
@@ -18,7 +18,7 @@ I’m deeply interested in building intelligent systems that learn from data —
 ### 🛠️ Tech Stack
 **Languages:** Python, SQL, JavaScript, HTML/CSS  
 **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
-**Tools:** Jupyter, Git, VS Code, Streamlit, React Native, AWS
+**Tools:** Jupyter, Git, VS Code, Streamlit, AWS, GCP, Docker, Databricks
 
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramith-pesala-929053209)  
