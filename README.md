@@ -22,7 +22,7 @@ I’m deeply interested in building intelligent systems that learn from data —
 
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramith-pesala-929053209)  
-- 📧 **ramithpesala@gmail.com**  
+- 📧 **ramithpesala123@gmail.com**  
 - 💻 [GitHub](https://github.com/ramithpesala)  
 
 ---
